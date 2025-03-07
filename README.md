@@ -1,4 +1,4 @@
-# Skin Cancer Classification Using VGG16
+# Skin Cancer Detection Using VGG16
 
 This project focuses on classifying skin cancer images as either **Benign** or **Malignant** using a deep learning model based on the **VGG16** architecture. Below is the project roadmap outlining the key steps and processes involved.
 
